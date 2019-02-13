@@ -3,15 +3,17 @@ title: "Reduce Maintenance Cost Through Predictive Techniques"
 author: "Yassine Landa"
 date: "13/02/2019"
 output:
-  html_document: 
-    df_print: paged
+  pdf_document: 
     number_sections: true
   html_notebook: 
     keep_md: true
     number_sections: true
-  pdf_document: 
+  html_document: 
+    df_print: paged
     number_sections: true
 ---
+
+_**NOTE**_ : This document as well as the original RMarkdown will be available momentarly [here](https://github.com/enissay14/awsworksample). For readability, an html notebook is also available [here](https://enissay14.github.io/awsworksample/aws_work_sample_notebook.html).
 
 # Introduction
 
